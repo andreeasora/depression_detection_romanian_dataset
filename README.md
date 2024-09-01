@@ -1,1 +1,3 @@
-# depression_detection_romanian_dataset
+# Depression detection on new Romanian dataset
+&nbsp;&nbsp;&nbsp;  Depression is a significant and growing public health concern, impacting millions worldwide. The ability to accurately diagnose and treat depression is essential for improving mental health outcomes. In the digital age, social media platforms like Reddit have become valuable resources for understanding mental health issues through user-generated content. This project focuses on creating and analysing a mental health dataset specific to the Romanian language, gathered from Reddit posts, with a special emphasis on depression.<br>
+&nbsp;&nbsp;&nbsp;  In this project, we collected and annotated texts from various Romanian subreddits where users discussed their experiences with depression and related mental health issues.
